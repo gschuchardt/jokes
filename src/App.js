@@ -18,7 +18,7 @@ const App = () => {
     <div>
       Hi Cousins
       <br />
-      <button onClick={getJoke}>Get Joke Right Now</button>
+      <button onClick={getJoke}>Get Joke</button>
       <h4>{joke}</h4>
     </div>
   );
